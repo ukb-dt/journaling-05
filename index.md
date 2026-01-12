@@ -41,10 +41,10 @@ but because gravity goes first.
 
 `#credo #raindrop-droptop`              
  
-State: Local Conditions {Immutable}         
-Change: UB + [Perturbation](https://en.wikipedia.org/wiki/Ethan_Coen) {Sentient}      
+State: [Local](https://en.wikipedia.org/wiki/A_Serious_Man) Conditions {Immutable}         
+Change: [UB](https://en.wikipedia.org/wiki/Tricia_Cooke) + [Perturbation](https://en.wikipedia.org/wiki/Ethan_Coen) {Sentient}      
 Rate of Change: [SGD](https://ukb-dt.github.io/coen-00/) {Potent}      
-Change of Rate: UI + [Knob](https://en.wikipedia.org/wiki/Joel_Coen) {Maleficent-Beneficent}      
+Change of Rate: [UI](https://abikesa.github.io/zarathustra/) + [Knob](https://en.wikipedia.org/wiki/Joel_Coen) {Maleficent-Beneficent}      
 Estate: [UX](https://abikesa.github.io/zarathustra/act2/chapter2.html) {Present}       
 
 Witness the inadequacy of language/Semantics
