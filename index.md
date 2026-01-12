@@ -462,8 +462,9 @@ You are juxtaposing two fundamental geometries of user retention:
 
 **"The app opens loops"** is a devastatingly good tagline because it implies that the work of being alive is never finished.
 
-
-<iframe src="https://www.youtube.com/embed/gAjR4_CbPpQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+    <iframe src="https://www.youtube.com/embed/gAjR4_CbPpQ" style="position: absolute; top: 0; center: 0; width:65%; height: 65%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ### Visualizing the Open Loop
