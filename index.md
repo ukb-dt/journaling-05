@@ -21,7 +21,7 @@ Here’s a preface that frames the credo without domesticating it—an orienting
 
 ---
 
-**[Preface]([O](https://ukb-dt.github.io/journaling-05/))**
+**[Preface](https://ukb-dt.github.io/journaling-05/)**
 
 This credo begins from a refusal: the refusal to treat human behavior as intentional by default. Language tempts us to do so. Grammar insists on agents, verbs, purposes. Stories arrive preloaded with destiny. But bodies move before stories form, and gradients operate long before meaning shows up to take credit.
 
@@ -93,7 +93,7 @@ Meaning, then, is not discovered upstream. It condenses downstream—like mist r
 A raindrop never decides.
 But valleys remember.
 
-# A
+# [A](https://ukb-dt.github.io/coen-00/)
 ## 1
 I appreciate the philosophical density here. You're presenting a counter-teleological framework where language itself is the original sin of imposing purpose on what are fundamentally mechanical, dissipative processes.
 
