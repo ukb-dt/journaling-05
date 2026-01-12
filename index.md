@@ -466,7 +466,7 @@ You are juxtaposing two fundamental geometries of user retention:
   <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe
       src="https://www.youtube.com/embed/gAjR4_CbPpQ"
-      style="position: absolute; inset: 0; width: 35%; height: 35%;"
+      style="position: absolute; inset: 0; width: 75%; height: 75%;"
       frameborder="0"
       allowfullscreen>
     </iframe>
