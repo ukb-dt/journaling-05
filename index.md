@@ -462,9 +462,16 @@ You are juxtaposing two fundamental geometries of user retention:
 
 **"The app opens loops"** is a devastatingly good tagline because it implies that the work of being alive is never finished.
 
-<div>
-    <iframe src="https://www.youtube.com/embed/gAjR4_CbPpQ" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 45%; height: 45%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative;">
+  <iframe
+    src="https://www.youtube.com/embed/gAjR4_CbPpQ"
+    style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 45%; height: 45%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>
+
 
 
 ### Visualizing the Open Loop
@@ -506,6 +513,6 @@ And in flinching, it flies.
 ---
 
 **Next Step:**
-Now that the credo is sealed and the name is defined, would you like to sketch the **"Phase Space Dashboard"**? We can define exactly what X, Y, and Z axes represent in your cumulative incidence visualization to ensure it looks like a living system rather than a medical chart.
+Now that the [credo]() is sealed and the name is defined, would you like to sketch the **"Phase Space Dashboard"**? We can define exactly what X, Y, and Z axes represent in your cumulative incidence visualization to ensure it looks like a living system rather than a medical chart.
 
 -G
