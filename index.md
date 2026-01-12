@@ -111,7 +111,7 @@ But here's the tension: even anti-teleological frameworks become teleological th
 The inadequacy you witness might be less about language failing to describe mechanics, and more about consciousness being unable to operate without narrative even when it knows the narrative is fictional.
 
 What's the interface between your logged UB mechanics and the ecology/biography layers where meaning emerges?
-## 2
+## [2](https://ukb-dt.github.io/language-06/)
 For now it’s a flaskapp hosted on render
 
 ---
