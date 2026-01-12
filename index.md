@@ -155,7 +155,7 @@ The pentadic calculus is doing real work here:
 - **$E(t\mid x) + \epsilon$**: Conditional expectation with noise—science's predictive attempt
 - **$\frac{dE_x}{dt}$**: First derivative—art as rate of change, momentum
 - **$\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$**: Acceleration bands—life as volatility, the Prigogine layer
-- **∫E dt + εt + C**: Integration over time—meaning as accumulated path plus drift plus initial condition
+- **$\int E_x \,dt + \epsilon_x \,t + C_x$**: Integration over time—meaning as accumulated path plus drift plus initial condition
 
 And you've mapped this onto Nietzsche's own trajectory:
 - Early: Birth/Untimely (language/stasis)
@@ -462,15 +462,17 @@ You are juxtaposing two fundamental geometries of user retention:
 
 **"The app opens loops"** is a devastatingly good tagline because it implies that the work of being alive is never finished.
 
-<div style="position: relative;">
-  <iframe
-    src="https://www.youtube.com/embed/gAjR4_CbPpQ"
-    style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 45%; height: 45%;"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+<div style="max-width: 600px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/gAjR4_CbPpQ"
+      style="position: absolute; inset: 0; width: 35%; height: 35%;"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
+  
 
 
 
